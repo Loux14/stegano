@@ -8,7 +8,7 @@ NC='\033[0m' # No Color
 
 # Help function
 show_help() {
-    echo -e "${BLUE}StegBash - Steganography Tool${NC}"
+    echo -e "${BLUE}Stegano${NC}"
     echo ""
     echo "Usage:"
     echo "  $0 hide [source_image] [text_message] [output_image]"
